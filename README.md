@@ -20,14 +20,38 @@ A menu-driven C++17 parking management case study demonstrating data structures 
 ## Project structure
 
 ```text
-miniproject_SmartPark/
+SmartPark_DSA2_MiniProject/
+│
 ├── src/
 │   └── main.cpp
+│
 ├── data/
 │   ├── vehicles.txt
 │   ├── parking.txt
 │   └── history.txt
+│
 ├── docs/
+│   ├── SmartPark_Case_Study_Report.docx
+│   └── output ss/
+│       ├── 01_Main_Menu.png
+│       ├── 02_Vehicle_Registration.png
+│       ├── 03_Parking_Allocation.png
+│       ├── 04_Available_Parking_Slots.png
+│       ├── 05_Vehicle_Entry.png
+│       ├── 06_Vehicle_Exit.png
+│       ├── 07_Hashing_Search.png
+│       ├── 08_BST_Search.png
+│       ├── 09_BST_Inorder.png
+│       ├── 10_BST_Preorder.png
+│       ├── 11_BST_Postorder.png
+│       ├── 12_BST_Structure.png
+│       ├── 13_Dijkstra_Shortest_Route.png
+│       ├── 14_Two_Pointers.png
+│       ├── 15_Sliding_Window.png
+│       ├── 16_Parking_History.png
+│       ├── 17_Sorting_Parking_Slots.png
+│       └── Test screenshots
+│
 ├── README.md
 └── .gitignore
 ```
@@ -106,4 +130,5 @@ Data is saved during operations and when the Exit menu option is selected.
 
 Project Guide: Dr. Aarti Pardeshi  
 Subject: Data Structures and Algorithms  
-Cohort: 2025–2029
+Cohort: Demis Hassabis
+2025–2029
