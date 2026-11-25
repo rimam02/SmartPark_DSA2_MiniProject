@@ -1,0 +1,36 @@
+MH01AB5555 registered successfully
+MH01AB5555 allocated Slot 2
+MH01AB5555 entered Slot 2
+MH01AB7777 registered successfully
+MH04GG2302 registered successfully
+MH04GG2302 allocated Slot 10
+MH04GG2302 entered Slot 10
+MH04GG2302 exited Slot 10
+MH05KH5783 registered successfully
+MH02CD4567 registered successfully
+MH02CD4567 allocated Slot 10
+MH02CD4567 entered Slot 10
+MH02CD4567 exited Slot 10
+MH03EF1111 registered successfully
+MH03EF2222 registered successfully
+MH45KL4702 registered successfully
+MH28DF4198 registered successfully
+MH27DA3727 registered successfully
+MH87AH3766 registered successfully
+MH03EF1111 allocated Slot 10
+MH03EF2222 allocated Slot 6
+MH45KL4702 allocated Slot 4
+MH28DF4198 allocated Slot 8
+MH27DA3727 allocated Slot 3
+MH87AH3766 allocated Slot 7
+MH05KH5783 allocated Slot 1
+MH39SD2673 registered successfully
+MH02CD4567 allocated Slot 5
+MH04GG2302 allocated Slot 9
+MH06PQ3333 registered successfully
+MH06PQ4444 registered successfully
+MH06PQ3333 added to waiting queue
+MH06PQ4444 added to waiting queue
+MH03EF1111 entered Slot 10
+MH03EF1111 exited Slot 10
+MH06PQ3333 allocated Slot 10 from waiting queue

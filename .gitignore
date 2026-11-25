@@ -1,0 +1,14 @@
+# Compiled program
+smartpark
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.o
+*.out
+
+/src/main
